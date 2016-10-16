@@ -1,0 +1,11 @@
+C:\Users\Agafonov\Documents\Visual Studio 2015\Projects\Tutorial\Lesson 1 - translate.yandex.ru\TranslateYa\TranslateYa\TranslateYa\bin\Debug\TranslateYa.exe.config
+C:\Users\Agafonov\Documents\Visual Studio 2015\Projects\Tutorial\Lesson 1 - translate.yandex.ru\TranslateYa\TranslateYa\TranslateYa\bin\Debug\TranslateYa.exe
+C:\Users\Agafonov\Documents\Visual Studio 2015\Projects\Tutorial\Lesson 1 - translate.yandex.ru\TranslateYa\TranslateYa\TranslateYa\bin\Debug\TranslateYa.pdb
+C:\Users\Agafonov\Documents\Visual Studio 2015\Projects\Tutorial\Lesson 1 - translate.yandex.ru\TranslateYa\TranslateYa\TranslateYa\obj\Debug\TranslateYa.exe
+C:\Users\Agafonov\Documents\Visual Studio 2015\Projects\Tutorial\Lesson 1 - translate.yandex.ru\TranslateYa\TranslateYa\TranslateYa\obj\Debug\TranslateYa.pdb
+C:\Users\Agafonov\Documents\Visual Studio 2015\Projects\Tutorial\Lesson 1 - translate.yandex.ru\TranslateYa\TranslateYa\TranslateYa\bin\Debug\RestSharp.dll
+C:\Users\Agafonov\Documents\Visual Studio 2015\Projects\Tutorial\Lesson 1 - translate.yandex.ru\TranslateYa\TranslateYa\TranslateYa\bin\Debug\RestSharp.xml
+C:\Users\Agafonov\Documents\Visual Studio 2015\Projects\Tutorial\Lesson 1 - translate.yandex.ru\TranslateYa\TranslateYa\TranslateYa\obj\Debug\TranslateYa.csprojResolveAssemblyReference.cache
+C:\Users\Anatoly\Documents\Visual Studio 2015\Tutorial\TranslateYa\TranslateYa\bin\Debug\TranslateYa.exe.config
+C:\Users\Anatoly\Documents\Visual Studio 2015\Tutorial\TranslateYa\TranslateYa\obj\Debug\TranslateYa.exe
+C:\Users\Anatoly\Documents\Visual Studio 2015\Tutorial\TranslateYa\TranslateYa\obj\Debug\TranslateYa.pdb
